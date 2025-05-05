@@ -1,0 +1,3 @@
+ 1. Development: Create a Python class `Calculator` with methods for basic arithmetic operations like addition, subtraction, multiplication, and division.
+2. Testing: Write unit tests using Python's `unittest` framework to validate the correctness of the `Calculator` class methods.
+3. Documentation: Generate documentation for the `Calculator` class and its methods using Python docstrings and a documentation generator like Sphinx. 
