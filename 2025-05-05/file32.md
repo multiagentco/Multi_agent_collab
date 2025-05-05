@@ -1,0 +1,3 @@
+Development: Create a Python class that represents a calculator with methods for basic arithmetic operations like addition, subtraction, multiplication, and division.
+Testing: Write unit tests using Python's unittest framework to validate the calculator's functionality by checking the results of various arithmetic operations.
+Documentation: Generate documentation for the calculator class using Python docstrings, explaining the purpose, parameters, and return values of each method.
